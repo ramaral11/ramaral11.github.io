@@ -1,0 +1,6 @@
+{
+  "vmixaddress": "192.168.1.120",
+  "vmixport": 8080,
+  "button": "Function=Fade&Duration=1000&Input=877bb3e7-58bd-46a1-85ce-0d673aec6bf5",
+  "red": "key=877bb3e7-58bd-46a1-85ce-0"
+}
